@@ -3,7 +3,7 @@
 - 👀 I’m interested in doing projects on java or any other new technology which if needed i will learn really quickly
 - 🌱 I’m currently learning backend development(have learned front end, will love to work on projects of them)and java(i feel i can read and understand the codes of it,not all obviously:):))
 - 💞️ I’m looking to collaborate on anything which is possible, no preference at all
-- 📫 How to reach me anyone can email me at piyushaggarwal20903@gmial.com
+- 📫 How to reach me anyone can email me at piyushaggarwal20903@gmail.com
 
 <!---
 piyushagg123/piyushagg123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
